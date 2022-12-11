@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * main - A function that runs our shell.
+ * main - Entry point (runs our shell).
  * @ac: The number of inputed arguments.
  * @av: The pointer to array of inputed arguments.
  * @env: The pointer to array of enviromental variables.
